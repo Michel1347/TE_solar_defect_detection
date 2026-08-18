@@ -221,7 +221,7 @@ Ultralytics will save the annotated detection results in its generated output di
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Michel1347/TE_solar_defect_detection.git
 cd YOUR_REPOSITORY
 
 Create a virtual environment:
